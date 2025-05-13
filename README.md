@@ -68,7 +68,7 @@
 
 <img align="right" width="88" src="https://www.lightwan.com.cn/images/logo.png" />
 
-- [北京轻网科技股份有限公司](https://www.lightwan.com/) &emsp; 📌 2023-07 —— 2024-11
+- [北京轻网科技股份有限公司](https://www.lightwan.com/) &emsp; 📌 2023-07 —— 2025-01
 
   - 工作岗位：前端开发工程师
   - 工作内容：中后台系统开发
