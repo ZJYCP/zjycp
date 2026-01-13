@@ -62,31 +62,6 @@
 
 </td></tr>
 
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://www.lightwan.com.cn/images/logo.png" />
-
-- [北京轻网科技股份有限公司](https://www.lightwan.com/) &emsp; 📌 2023-07 —— 2025-01
-
-  - 工作岗位：前端开发工程师
-  - 工作内容：中后台系统开发
-
-<img align="right" width="88" src="https://img2.pingan.com/app_series/pingancn/assets/img/about/values_pic01.png" />
-
-- [中国平安（实习）](https://www.pingan.cn/) &emsp; 📌 2019-12 —— 2020-02
-
-  - 工作岗位：Web 前端开发工程师 
-
-<img align="right" width="88" src="https://img04.51jobcdn.com/im/mkt/pc/favicon/favicon_51.ico" />
-
-- [前端无忧（实习）](https://we.51job.com/pc/aboutus) &emsp; 📌 2019-04 —— 2019-10
-
-  - 工作岗位：Web 前端开发实习生 
-
-</td></tr>
-
 </table>
  <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
